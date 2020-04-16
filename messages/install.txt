@@ -1,6 +1,7 @@
-SublimeLinter-contrib-__linter__
+SublimeLinter-contrib-clj-kondo
 -------------------------------
-This linter plugin for SublimeLinter provides an interface to __linter__.
+This linter plugin for SublimeLinter provides an interface to Kondo, the Clojure linter. It requires `clj-kondo` to be installed.
 
 For more information, please see:
-https://github.com/__user__/SublimeLinter-contrib-__linter__
+https://github.com/SublimeLinter/SublimeLinter
+https://github.com/borkdude/clj-kondo
